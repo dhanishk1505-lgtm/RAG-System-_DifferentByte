@@ -1,0 +1,13 @@
+DifferentByte_RAG/
+│
+├── .venv/
+├── .env
+├── test_groq.py
+├── list_models.py
+│
+├── data/
+│   └── sample.pdf
+│
+├── vectorstore/
+│
+└── app.py
